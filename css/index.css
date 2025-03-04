@@ -1,0 +1,42 @@
+body{
+    background-color: #000000;
+}
+
+.custom-navbar {
+    overflow: hidden;
+    position: fixed;
+    top: 0; 
+    width: 100%;
+    background: linear-gradient(155deg, #000000, #000000, #04145d);
+    border-color: #000000b4 !important;
+    z-index:99999;
+}
+
+.nav-link{
+    color: #ffffff;
+    font-size: 15px;
+}
+
+.nav-link:hover {
+    color: #bdbdbd !important;
+}
+
+.navspace{
+    margin-left: 30px;
+}
+
+.custom-footer {
+    background-color: #000000 !important;
+}
+
+.imgLogo{
+    position: absolute;
+    margin-left: 35%;
+    margin-top: 19%;
+    width: 50%;
+    z-index: 9999;
+}
+
+.logoCar{
+    width: 60%;
+}
